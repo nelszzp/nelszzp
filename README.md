@@ -1,3 +1,1 @@
-- 🏙️ I'm focused on cities at [CommunityScale](https://communityscale.io/)
-- 🛠️ [nels.city](https://nels.city/) — published articles, professional projects, and other notes
-- 🌱 [wetland.io](https://wetland.io/) — fun projects and collaborations
+🏙️ I'm focused on cities at [CommunityScale](https://communityscale.io/)
