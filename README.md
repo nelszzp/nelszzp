@@ -1,1 +1,1 @@
-🏙️ I'm focused on cities at [CommunityScale](https://communityscale.io/) (@CommunityScale)
+🏙️ I'm focused on cities at [CommunityScale](https://communityscale.io/)
